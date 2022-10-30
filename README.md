@@ -1,5 +1,3 @@
-# Belajar Java Dasar
+# Java OOP
 
-Ini adalah project belajar java dasar di channel :
-
-Sanas Febriyan
+by hmos9c
